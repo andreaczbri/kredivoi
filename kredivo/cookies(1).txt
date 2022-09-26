@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+m-kredited-flexicard.bubbleapps.io	TRUE	/	FALSE	1999999999	m-kredited-flexicard_test_u2main	1664160843717x894875836546282500
+m-kredited-flexicard.bubbleapps.io	TRUE	/	FALSE	1999999999	m-kredited-flexicard_test_u2main.sig	gmbj8CcPpi3Vmsd3XTf-8svV2-Y
+m-kredited-flexicard.bubbleapps.io	TRUE	/	FALSE	1999999999	m-kredited-flexicard_u1_testmain	1664160843611x843299134140533400
+
